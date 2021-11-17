@@ -136,18 +136,18 @@
 
     <dependencies>
 
-        <dependency>
-            <groupId>org.seamless</groupId>
+         <dependency>
+            <groupId>com.github.KotlinByte</groupId>
             <artifactId>seamless-util</artifactId>
             <version>${seamless.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.seamless</groupId>
+            <groupId>com.github.KotlinByte</groupId>
             <artifactId>seamless-http</artifactId>
             <version>${seamless.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.seamless</groupId>
+            <groupId>com.github.KotlinByte</groupId>
             <artifactId>seamless-xml</artifactId>
             <version>${seamless.version}</version>
         </dependency>
